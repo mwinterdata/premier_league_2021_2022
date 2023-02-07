@@ -1,0 +1,33 @@
+INSERT INTO PremierLeague2021_22.dbo.running_totals
+(date,
+ team,
+ goals_scored,
+ goals_conceded,
+ home_away,
+ result,
+ match_points,
+ running_points_total,
+ running_home_away_points, 
+ game_number,
+ home_away_game_number,
+ running_scored_total,
+ home_away_running_scored_total,
+ running_conceded_total,
+ home_away_running_conceded_total)
+VALUES
+(2021-08-07,
+ 'Arsenal',
+ 0,
+ 0,
+ 'home',
+ 0,
+ 0,
+ 0,
+ 0,
+ 0,
+ 0,
+ 0,
+ 0,
+ 0,
+ 0)
+
