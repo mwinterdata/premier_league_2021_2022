@@ -15,8 +15,8 @@ CASE WHEN functions
 NOTE FOR READER:
 -- has been used for standard commenting
 /* */ has been used to highlight when each of the above tools is used for the first time
-
 */
+
 
 -- Table One: results_sorted
 
