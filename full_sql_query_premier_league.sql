@@ -18,7 +18,6 @@ NOTE FOR READER:
 
 */
 
-
 -- Table One: results_sorted
 
 -- Splitting each game into two rows with home and away team each getting distinct row
